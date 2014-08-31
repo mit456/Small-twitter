@@ -1,0 +1,6 @@
+Once you will click on any hash tag button, It will make an ajax request to "get_response.php" and then it shows tweets with that hash tag.
+Please execute all sql quaries from quaries.sql file.
+Thanx :)
+
+for any doubt: 
+    feel free to ping me at mithunksingh98@gmail.com :P
