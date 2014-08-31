@@ -9,7 +9,7 @@
         <input type="button" class="ajax_button btn btn-success " value="#tag1">
         <input type="button" class="ajax_button btn btn-danger " value="#happybirthday"><br>
 
-        <div id="tweets" class="well col-sm-4" style="display: none;"></div>
+        <div id="tweets" class="well col-sm-4" style="display: none; margin-left:32%"></div>
     </body>
 
 

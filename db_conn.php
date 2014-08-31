@@ -1,6 +1,6 @@
 <?php
 
-$con = mysql_connect("localhost", "root", "ilostpassword") or die(mysql_error());
+$con = mysql_connect("localhost", "root", "********") or die(mysql_error());
 mysql_select_db("small_twitter", $con);
 
 ?>
